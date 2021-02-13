@@ -1,7 +1,7 @@
 ﻿# Contributors
 
 - [Abhijith Ravindran](https://github.com/Abhijith-Ravindran)
-- [Maeva Mazadiego] (https://github.com/MaeMazcort)
+- [Maeva Mazadiego](https://github.com/MaeMazcort)
 - [Matt Herman](https://github.com/mhermandesign)
 - J.G.
 - Anh Huynh
